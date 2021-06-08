@@ -78,7 +78,7 @@ function RightNav(props: Props) {
       </S.Ul>
 
       <Switch>
-        <Route exact path='menu1'>
+        <Route exact path='https://github.com/Cyaaaaaaaaan/JW-Persecution/blob/main/public/index.html'>
           Menu 1
         </Route>
         <Route exact path='menu2'>
