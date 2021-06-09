@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/JW-Persecution/static/css/main.c0e18c33.chunk.css",
+    "main.js": "/JW-Persecution/static/js/main.2a2fb9a8.chunk.js",
+    "main.js.map": "/JW-Persecution/static/js/main.2a2fb9a8.chunk.js.map",
+    "runtime-main.js": "/JW-Persecution/static/js/runtime-main.9961f55c.js",
+    "runtime-main.js.map": "/JW-Persecution/static/js/runtime-main.9961f55c.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/JW-Persecution/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.0fe2631e.chunk.js": "/JW-Persecution/static/js/2.0fe2631e.chunk.js",
+    "static/js/2.0fe2631e.chunk.js.map": "/JW-Persecution/static/js/2.0fe2631e.chunk.js.map",
+    "static/js/3.485176e8.chunk.js": "/JW-Persecution/static/js/3.485176e8.chunk.js",
+    "static/js/3.485176e8.chunk.js.map": "/JW-Persecution/static/js/3.485176e8.chunk.js.map",
+    "index.html": "/JW-Persecution/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/JW-Persecution/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.c0e18c33.chunk.css.map": "/JW-Persecution/static/css/main.c0e18c33.chunk.css.map",
+    "static/js/2.0fe2631e.chunk.js.LICENSE.txt": "/JW-Persecution/static/js/2.0fe2631e.chunk.js.LICENSE.txt",
+    "static/media/img2.b7740243.png": "/JW-Persecution/static/media/img2.b7740243.png",
+    "static/media/logo.07c27429.png": "/JW-Persecution/static/media/logo.07c27429.png",
+    "static/media/now-header.392cba77.png": "/JW-Persecution/static/media/now-header.392cba77.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9961f55c.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.0fe2631e.chunk.js",
+    "static/css/main.c0e18c33.chunk.css",
+    "static/js/main.2a2fb9a8.chunk.js"
+  ]
+}
